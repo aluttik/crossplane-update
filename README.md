@@ -1,7 +1,8 @@
 # crossplane-update
 
 A helper script for updating the directive definitions in
-crossplane.analyzer.DIRECTIVES.
+[crossplane.analyzer.DIRECTIVES](https://github.com/nginxinc/crossplane/blob/master/crossplane/analyzer.py#L76).
+
 
 ## Installation
 
