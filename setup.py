@@ -8,7 +8,7 @@ import sys
 
 __title__ = "crossplane_update"
 __summary__ = "Helper script for updating crossplane.analyzer.DIRECTIVES"
-__url__ = "https://github.com/aluttik/crossplane_update"
+__url__ = "https://github.com/aluttik/crossplane-update"
 
 __version__ = "0.0.0"
 
