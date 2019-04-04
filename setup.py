@@ -36,6 +36,7 @@ setuptools.setup(
     author_email=__email__,
     url=__url__,
     packages=[],
+    install_requires=["requests>=2.21.0", "bs4>=0.0.1"],
     license=__license__,
     classifiers=[
         "Development Status :: 3 - Alpha",
